@@ -5,6 +5,8 @@ Valheim Plus - https://www.nexusmods.com/valheim/mods/4
 BepInEx - https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/
 BepInEx is a general purpose framework for Unity modding
 
+Install everything in BepInEx/Plugin 
+
 Equipment and Quick Slots - https://www.nexusmods.com/valheim/mods/92
 Only required client-side, do not install on servers.
 
